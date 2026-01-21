@@ -45,8 +45,8 @@ jobs:
       # Configure Git user info
       - name: Configure Git
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "hoyog"
+          git config --global user.email "hoyog66@gmail.com"
 
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
